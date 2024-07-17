@@ -1,0 +1,52 @@
+TECH STACK USED
+    Programming Language: C++
+    Compiler: GCC (GNU Compiler Collection)
+    IDE: Visual Studio Code
+    Extensions: C/C++ by Microsoft
+    Version Control: Git and GitHub
+
+
+Project Details
+
+    Project Name: 
+                 TaskManagerCPP
+
+    Overview:
+              TaskManagerCPP is a simple and beginner-friendly task management system designed to help users manage their                       
+tasks efficiently. The project demonstrates fundamental concepts of object-oriented programming, data structures, file I/O,    and basic user interaction.
+
+    Features:
+
+    1.Add Task: 
+        Create new tasks with descriptions, categories, and priority levels.
+    2.View Tasks: 
+        Display all tasks, showing their status (completed or pending).
+    3.Edit Task: 
+        Modify the description, category, and priority of existing tasks.
+    4.Mark Task as Completed: 
+        Update the status of tasks to completed.
+    5.Delete Task:
+        Remove tasks from the list.
+    6.Filter Tasks by Category: 
+        View tasks filtered by their category.
+    7.Persistence: 
+        Save tasks to a file and load them upon program start, ensuring data is retained between sessions.
+    8.Basic Error Handling: Handle invalid user inputs gracefully.
+
+
+
+Functionalities:
+
+1.Task Creation:  
+       Users can add tasks with specific descriptions, categories, and priority levels.
+2.Task Viewing: 
+       All tasks can be viewed in a list, with details such as description, category, priority, and completion status.
+3.Task Editing: 
+       Existing tasks can be edited to update their description, category, and priority.
+4.Task Completion: 
+       Tasks can be marked as completed to update their status.
+5.Task Deletion: 
+       Users can delete tasks they no longer need.
+6.Task Filtering: 
+       Tasks can be filtered by category for easier management.
+
